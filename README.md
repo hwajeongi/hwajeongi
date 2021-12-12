@@ -1,4 +1,5 @@
 👩🏻‍💻 Chosun univ. Information and Communication Technology
+
 📧 ghkwjd5343@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwajeongi&layout=compact)](https://github.com/hwajeongi/github-readme-stats)
